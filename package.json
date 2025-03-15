@@ -1,0 +1,23 @@
+{
+  "name": "ethkipusp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aquental/ethkipusp.git"
+  },
+  "author": "AQuental",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquental/ethkipusp/issues"
+  },
+  "homepage": "https://github.com/aquental/ethkipusp#readme",
+  "description": "",
+  "dependencies": {
+    "@chainlink/env-enc": "^1.0.5",
+    "ethers": "^6.13.5"
+  }
+}
